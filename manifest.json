@@ -1,0 +1,14 @@
+{
+    "short_name": "graph3D",
+    "name": "3D Interactive Network Graph",
+    "description":"a 3d graph rendering engine that adapts to the user's view and interactions",
+    "icons": [
+      {
+        "src": "./image/graph3d.png",
+        "type": "image/png",
+        "sizes": "128x128"
+      }
+    ],
+    "start_url": "./index.html",
+    "display": "standalone"
+  }
