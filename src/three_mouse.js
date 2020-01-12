@@ -170,6 +170,7 @@ function onMouseMove(event){
 
 function SetMeshList(l_mesh_list){
 	mesh_list = l_mesh_list;
+	//console.log(mesh_list);
 	//mesh_list.forEach(mesh =>{
 	//	console.log(`three_mouse> added mouseEvent to mesh ${mesh.name}`);
 	//})

@@ -3,7 +3,8 @@ export default
     "scene":{
         "background":"0x4f6f8f"
     },
-    "glTF_model":"./3d_models/ground.gltf",
+    "ground":"./3d_models/ground.gltf",
+    "node":"./3d_models/node.gltf",
     "mouse":{
         click_hold_delay_ms : 600
     },
