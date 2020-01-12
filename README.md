@@ -1,4 +1,4 @@
-# 3d_graph
+# graph3d
 The core engine of the network graph rendering with viewing features and interactivity concept
 
 # dependencies
