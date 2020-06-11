@@ -1,6 +1,10 @@
 # graph3d
 The core engine of the network graph rendering with viewing features and interactivity concept
 
+## live demo
+still an empty Frame but to give a thought if nodes should be 3d meshes or not
+https://networkgraphs.github.io/graph3d/
+
 # dependencies
 * three.js
 ## relates to
